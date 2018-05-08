@@ -1,4 +1,4 @@
-FROM golang:1.8-jessie
+FROM golang:1.9-alpine
 
 # build geth
 
